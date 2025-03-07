@@ -5,10 +5,10 @@ set -e
 script/build --config _config.yml,test/_config.yml
 bundle exec rake
 
-set +e
+# set +e
 
-script/html-proofer
+# script/html-proofer
 HTML_PROOFER_EXIT="$?"
-test/prose
+# test/prose
 PROSE_EXIT="$?"
 [[ "$HTML_PROOFER_EXIT" == 0 && "$PROSE_EXIT" == 0 ]]

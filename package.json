@@ -8,6 +8,19 @@
   "dependencies": {
     "primer-core": "7.0.0",
     "primer-marketing": "7.0.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-lint": "^10.0.1",
+    "remark-lint-first-heading-level": "^4.0.1",
+    "remark-lint-heading-increment": "^4.0.1",
+    "remark-lint-heading-style": "^4.0.1",
+    "remark-lint-list-item-bullet-indent": "^5.0.1",
+    "remark-lint-list-item-content-indent": "^4.0.1",
+    "remark-lint-list-item-indent": "^4.0.1",
+    "remark-lint-no-duplicate-headings": "^4.0.1",
+    "remark-lint-no-multiple-toplevel-headings": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-retext": "^6.0.0",
+    "remark-stringify": "^11.0.0",
     "unified": "^11.0.5"
   }
 }
