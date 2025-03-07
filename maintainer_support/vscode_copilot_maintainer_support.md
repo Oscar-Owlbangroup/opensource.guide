@@ -2,6 +2,7 @@
 
 ## Maintainer Resources
 - Provide access to resources and best practices for maintainers to effectively manage their projects, including links to guides on project management, community engagement, and technical documentation.
+- Encourage maintainers to utilize the new user feedback mechanism to enhance the tool based on community input.
 
 ## Burnout Prevention
 - Offer guidance on maintaining a healthy work-life balance to avoid burnout, including specific strategies such as flexible work hours and mental health resources.
@@ -9,6 +10,7 @@
 
 ## Community Support
 - Foster a supportive community where maintainers can share experiences and seek advice, including initiatives like mentorship programs and online forums.
+- Highlight the importance of community feedback in shaping the future of VSCode Copilot.
 - Organize regular check-ins or support sessions for maintainers to discuss challenges and solutions.
 
 ## Conclusion

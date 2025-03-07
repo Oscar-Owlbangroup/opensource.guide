@@ -4,9 +4,10 @@
 VSCode Copilot is an AI-powered code completion tool that assists developers by providing context-aware code suggestions.
 
 ## Features
-- **Context-Aware Suggestions**: Provides relevant code suggestions based on the current context.
+- **Context-Aware Suggestions**: Provides relevant code suggestions based on the current context, enhanced by user feedback.
 - **Multi-Language Support**: Supports various programming languages and frameworks.
 - **Integration with Development Tools**: Seamlessly integrates with popular development tools and platforms.
+- **User Feedback Mechanism**: Allows users to provide feedback on suggestions to improve the AI's performance.
 
 ## Getting Started
 1. **Installation**: Instructions on how to install VSCode Copilot.
@@ -19,7 +20,9 @@ VSCode Copilot is an AI-powered code completion tool that assists developers by 
 - **Where to find community support?**
 
 ## Troubleshooting
-Common issues and their solutions to help users troubleshoot independently.
+Common issues and their solutions to help users troubleshoot independently, including:
+- If suggestions are not relevant, ensure that the context is clear and specific.
+- If the user feedback mechanism is not functioning, check the integration settings.
 
 ## Community Support
 Links to community forums, user groups, and contribution opportunities.

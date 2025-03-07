@@ -13,8 +13,7 @@
 - Ensure quick loading times and responsiveness, particularly when handling multiple files or large codebases.
 
 ## User Testing
-- Conduct user testing sessions to gather feedback on the interface.
-- Iterate on design based on user feedback to enhance overall experience.
+- Conduct user testing sessions to gather feedback on the interface and iterate on design based on user feedback to enhance overall experience.
 
 ## Conclusion
 Implementing these improvements will lead to a more user-friendly experience, making VSCode Copilot a more effective tool for developers.
