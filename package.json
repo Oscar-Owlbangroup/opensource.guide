@@ -6,6 +6,10 @@
     "postinstall": "cd test && npm install"
   },
   "dependencies": {
+    "chart.js": "^4.4.8",
+    "d3": "^7.9.0",
+    "pdf-lib": "^1.17.1",
+    "pdfmake": "^0.2.18",
     "primer-core": "7.0.0",
     "primer-marketing": "7.0.0",
     "remark-frontmatter": "^5.0.0",
@@ -21,6 +25,9 @@
     "remark-parse": "^11.0.0",
     "remark-retext": "^6.0.0",
     "remark-stringify": "^11.0.0",
-    "unified": "^11.0.5"
+    "sanitize-html": "^2.14.0",
+    "unified": "^11.0.5",
+    "webpack": "^5.98.0",
+    "xss-filters": "^1.2.7"
   }
 }
