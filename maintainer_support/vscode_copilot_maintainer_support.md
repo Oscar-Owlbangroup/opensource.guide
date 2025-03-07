@@ -2,7 +2,6 @@
 
 ## Maintainer Resources
 - Provide access to resources and best practices for maintainers to effectively manage their projects, including links to guides on project management, community engagement, and technical documentation.
-- Include links to guides on project management, community engagement, and technical documentation.
 
 ## Burnout Prevention
 - Offer guidance on maintaining a healthy work-life balance to avoid burnout, including specific strategies such as flexible work hours and mental health resources.
